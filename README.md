@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Web App is based on the [Stimulus to-do-app](https://www.akshaykhot.com/building-to-do-list-using-hotwire-and-stimulus/)
 
-Things you may want to cover:
+Application System Specifications:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+   - 7.0.4.3
